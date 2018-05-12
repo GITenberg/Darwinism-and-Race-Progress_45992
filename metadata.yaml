@@ -1,0 +1,29 @@
+_repo: Darwinism-and-Race-Progress_45992
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45992-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haycraft, John Berry
+    alias: Haycraft, John B. (John Berry)
+    birthdate: 1857
+    deathdate: 1922
+    gutenberg_agent_id: '43558'
+    url: http://www.gutenberg.org/2009/agents/43558
+description: ''
+gutenberg_issued: '2014-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45992'
+  lccn: 06014593
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HM'
+- !lcsh 'Sociology'
+- !lcsh 'Evolution'
+title: Darwinism and Race Progress
+url: http://www.gutenberg.org/ebooks/45992
